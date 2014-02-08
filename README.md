@@ -1,4 +1,4 @@
 sciencewiz
 ==========
 
-This is my website called SCIENCE.CO.UK
+This is my website called SCIENCEWIZ.CO.UK
